@@ -4,7 +4,7 @@ package main.java.org.firstinspires.ftc.teamcode;
 public class test extends OpMode {
 
     public DcMotor rightFront;
-    public DcMotor leftFront;
+    public DcMotor leftFront
 
     public DcMotor Rotate;
     public DcMotor Launch1;
